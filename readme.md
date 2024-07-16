@@ -67,7 +67,7 @@
 <br>
 평가 데이터와 닮아 있음을 알 수 있습니다.
 <br>
-어떻게 쓸지는 마음대로이나 저희는 domain적응을 활용하고자 합니다.
+어떻게 쓸지는 마음대로이나 저희는 domain적응에 활용하고자 합니다.
 - 사진 BCFCIBHG<br>
 ![alt text](BCFCIBHG.png)
 - 사진 ADUNDKGO<br>
