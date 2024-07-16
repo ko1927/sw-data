@@ -400,4 +400,4 @@ trained_model, train_loader, val_loader, test_loader = train_model('vit_l_32', V
 - 적대적 학습 : 0.4857 오율이 나와 현재는 중단하고 다음 방법을 찾는 중
 - pretrain + 파인튜닝 : 데이터의 차이 극복을 어느정도 하였으나 미미함
 - 의사 라벨링 : cnn모델은 오율이 높았으나 MLP의 경우 오율이 낮았음. 여전히 미미함
-- 모델 변경 : MLP, CNN, Transformer 모델을 사용하였으며 모델 중 정답률이 가장 높은 것은 Transformer모델이었음. 현재는 Transformer모델을 활용해 개선하고자 함.
+- 모델 변경 : MLP, CNN, Transformer 모델을 사용하였으며 모델 중 정답률이 가장 높은 것은 Transformer모델이었음. 현재는 Transformer모델을 활용해 다른 방법을 같이 사용하는 등 여타 방법으로 개선하고자 함.
